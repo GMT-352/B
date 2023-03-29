@@ -37,7 +37,7 @@
 - Mert's Map
 
 - Ayca's Map
-
+![Ayca](HEAVILY_DAMAGED_BUILDINGS.png)
 - Yiğit's Map
 
 - Ufuk's Map
