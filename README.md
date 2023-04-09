@@ -38,6 +38,9 @@
 ![Mert](Gaziantep-Konak_Building_Conditions_Map.png)
 - Ayca's Map
 ![Ayca](HEAVILY_DAMAGED_BUILDINGS.png)
+
+![Ayca](GAZIANTEP_HEAVILY_DAMAGED_MAP2.png)
+
 - Yiğit's Map
 
 - Ufuk's Map
